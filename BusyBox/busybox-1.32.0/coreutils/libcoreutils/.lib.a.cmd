@@ -1,0 +1,1 @@
+cmd_coreutils/libcoreutils/lib.a := rm -f coreutils/libcoreutils/lib.a; /usr/arm/gcc-linaro-14.0.0-2023.06-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar  rcs coreutils/libcoreutils/lib.a coreutils/libcoreutils/cp_mv_stat.o coreutils/libcoreutils/getopt_mk_fifo_nod.o

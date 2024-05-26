@@ -1,0 +1,1 @@
+cmd_modutils/lib.a := rm -f modutils/lib.a; /usr/arm/gcc-linaro-14.0.0-2023.06-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar  rcs modutils/lib.a modutils/depmod.o modutils/insmod.o modutils/lsmod.o modutils/modinfo.o modutils/modprobe.o modutils/modutils.o modutils/rmmod.o

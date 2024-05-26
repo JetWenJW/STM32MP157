@@ -1,0 +1,1 @@
+cmd_archival/lib.a := rm -f archival/lib.a; /usr/arm/gcc-linaro-14.0.0-2023.06-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar  rcs archival/lib.a archival/bbunzip.o archival/bzip2.o archival/cpio.o archival/dpkg.o archival/dpkg_deb.o archival/gzip.o archival/lzop.o archival/rpm.o archival/tar.o archival/unzip.o

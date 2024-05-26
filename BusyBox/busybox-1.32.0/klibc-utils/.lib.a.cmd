@@ -1,0 +1,1 @@
+cmd_klibc-utils/lib.a := rm -f klibc-utils/lib.a; /usr/arm/gcc-linaro-14.0.0-2023.06-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar  rcs klibc-utils/lib.a klibc-utils/nuke.o klibc-utils/resume.o

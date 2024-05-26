@@ -1,0 +1,1 @@
+cmd_networking/libiproute/built-in.o :=  rm -f networking/libiproute/built-in.o; /usr/arm/gcc-linaro-14.0.0-2023.06-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ar rcs networking/libiproute/built-in.o
